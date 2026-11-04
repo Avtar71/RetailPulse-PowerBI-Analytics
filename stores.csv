@@ -1,0 +1,13 @@
+store_id,store_name,country,region,sales_channel,currency
+STORE-001,United Kingdom Online 01,United Kingdom,England,Online,GBP
+STORE-002,United States Marketplace 02,United States,Midwest,Marketplace,USD
+STORE-003,Germany Online 03,Germany,Hesse,Online,EUR
+STORE-004,France Retail Partner 04,France,Île-de-France,Retail Partner,EUR
+STORE-005,Canada Online 05,Canada,Ontario,Online,CAD
+STORE-006,Australia Marketplace 06,Australia,Victoria,Marketplace,AUD
+STORE-007,India Online 07,India,Karnataka,Online,INR
+STORE-008,Netherlands Retail Partner 08,Netherlands,South Holland,Retail Partner,EUR
+STORE-009,Spain Online 09,Spain,Andalusia,Online,EUR
+STORE-010,Ireland Marketplace 10,Ireland,Leinster,Marketplace,EUR
+STORE-011,United States Online 11,United States,South,Online,USD
+STORE-012,United Kingdom Retail Partner 12,United Kingdom,Northern Ireland,Retail Partner,GBP

@@ -1,0 +1,501 @@
+product_id,source_product_id,product_name,category,subcategory,unit_price,currency,brand,unit_cost,is_active
+PROD-0001,SKU0001,Serving Tray,Home & Kitchen,Storage,23.15,USD,Everyday Co,9.24,True
+PROD-0002,SKU0002,Scented Candle,Gifts,Novelty,11.09,USD,Everyday House,6.85,True
+PROD-0003,SKU0003,File Folder,Stationery,Office,34.36,USD,Everyday Works,12.27,True
+PROD-0004,SKU0004,Scarf,Accessories,Wearables,9.55,USD,Everyday Studio,5.24,True
+PROD-0005,SKU0005,Craft Kit,Toys & Games,Puzzles,4.2,USD,Everyday Supply,1.64,True
+PROD-0006,SKU0006,Seed Kit,Garden,Tools,37.23,USD,Everyday Co,14.25,True
+PROD-0007,SKU0007,Bluetooth Speaker,Electronics,Smart Home,13.79,USD,Everyday House,8.01,True
+PROD-0008,SKU0008,Shampoo Bar,Beauty & Personal Care,Tools,11.95,USD,Everyday Works,3.41,True
+PROD-0009,SKU0009,Dry Bag,Sports & Outdoors,Fitness,6.47,USD,Everyday Studio,3.52,True
+PROD-0010,SKU0010,Leash,Pet Supplies,Toys,29.69,USD,Everyday Supply,8.76,True
+PROD-0011,SKU0011,Storage Basket,Home & Kitchen,Kitchenware,58.05,USD,Everyday Co,25.37,True
+PROD-0012,SKU0012,Gift Box,Gifts,Celebration,10.51,USD,Everyday House,5.92,True
+PROD-0013,SKU0013,File Folder,Stationery,Paper,13.99,USD,Everyday Works,7.0,True
+PROD-0014,SKU0014,Scarf,Accessories,Jewellery,10.33,USD,Everyday Studio,6.26,True
+PROD-0015,SKU0015,Card Game,Toys & Games,Soft Toys,30.38,USD,Everyday Supply,9.37,True
+PROD-0016,SKU0016,Watering Can,Garden,Growing,9.05,USD,Everyday Co,5.82,True
+PROD-0017,SKU0017,Bluetooth Speaker,Electronics,Audio,10.0,USD,Everyday House,5.81,True
+PROD-0018,SKU0018,Hair Brush,Beauty & Personal Care,Haircare,24.77,USD,Everyday Works,11.94,True
+PROD-0019,SKU0019,Head Torch,Sports & Outdoors,Hydration,13.4,USD,Everyday Studio,6.36,True
+PROD-0020,SKU0020,Leash,Pet Supplies,Travel,32.01,USD,Everyday Supply,10.6,True
+PROD-0021,SKU0021,Glass Vase,Home & Kitchen,Storage,33.62,USD,Everyday Co,14.93,False
+PROD-0022,SKU0022,Gift Wrap Set,Gifts,Novelty,20.76,USD,Everyday House,8.5,True
+PROD-0023,SKU0023,Desk Planner,Stationery,Office,8.47,USD,Everyday Works,4.96,False
+PROD-0024,SKU0024,Scarf,Accessories,Wearables,16.77,USD,Everyday Studio,9.38,True
+PROD-0025,SKU0025,Jigsaw Puzzle,Toys & Games,Puzzles,48.11,USD,Everyday Supply,15.16,True
+PROD-0026,SKU0026,Seed Kit,Garden,Tools,12.39,USD,Everyday Co,4.87,True
+PROD-0027,SKU0027,Power Bank,Electronics,Smart Home,33.8,USD,Everyday House,16.6,True
+PROD-0028,SKU0028,Hair Brush,Beauty & Personal Care,Tools,11.24,USD,Everyday Works,3.23,True
+PROD-0029,SKU0029,Head Torch,Sports & Outdoors,Fitness,33.86,USD,Everyday Studio,16.98,True
+PROD-0030,SKU0030,Grooming Brush,Pet Supplies,Toys,9.91,USD,Everyday Supply,5.95,True
+PROD-0031,SKU0031,Storage Basket,Home & Kitchen,Kitchenware,9.92,USD,Everyday Co,6.26,True
+PROD-0032,SKU0032,Scented Candle,Gifts,Celebration,7.81,USD,Everyday House,3.0,True
+PROD-0033,SKU0033,Gel Pen Set,Stationery,Paper,50.56,USD,Everyday Works,25.94,True
+PROD-0034,SKU0034,Compact Umbrella,Accessories,Jewellery,9.68,USD,Everyday Studio,5.87,True
+PROD-0035,SKU0035,Card Game,Toys & Games,Soft Toys,15.58,USD,Everyday Supply,7.33,True
+PROD-0036,SKU0036,Plant Pot,Garden,Growing,48.09,USD,Everyday Co,21.55,True
+PROD-0037,SKU0037,Power Bank,Electronics,Audio,14.24,USD,Everyday House,6.52,True
+PROD-0038,SKU0038,Travel Mirror,Beauty & Personal Care,Haircare,5.49,USD,Everyday Works,3.11,True
+PROD-0039,SKU0039,Yoga Mat,Sports & Outdoors,Hydration,18.52,USD,Everyday Studio,7.97,True
+PROD-0040,SKU0040,Grooming Brush,Pet Supplies,Travel,12.24,USD,Everyday Supply,7.68,True
+PROD-0041,SKU0041,Serving Tray,Home & Kitchen,Storage,23.71,USD,Everyday Co,7.67,True
+PROD-0042,SKU0042,Greeting Card,Gifts,Novelty,17.79,USD,Everyday House,11.33,True
+PROD-0043,SKU0043,File Folder,Stationery,Office,17.15,USD,Everyday Works,10.04,True
+PROD-0044,SKU0044,Compact Umbrella,Accessories,Wearables,32.64,USD,Everyday Studio,9.51,True
+PROD-0045,SKU0045,Wooden Blocks,Toys & Games,Puzzles,40.7,USD,Everyday Supply,11.85,True
+PROD-0046,SKU0046,Garden Gloves,Garden,Tools,25.47,USD,Everyday Co,16.41,False
+PROD-0047,SKU0047,Bluetooth Speaker,Electronics,Smart Home,16.98,USD,Everyday House,5.55,True
+PROD-0048,SKU0048,Shampoo Bar,Beauty & Personal Care,Tools,6.86,USD,Everyday Works,2.97,True
+PROD-0049,SKU0049,Dry Bag,Sports & Outdoors,Fitness,9.98,USD,Everyday Studio,4.54,False
+PROD-0050,SKU0050,Leash,Pet Supplies,Toys,23.26,USD,Everyday Supply,11.46,True
+PROD-0051,SKU0051,Glass Vase,Home & Kitchen,Kitchenware,4.37,USD,Everyday Co,2.94,False
+PROD-0052,SKU0052,Gift Wrap Set,Gifts,Celebration,26.13,USD,Everyday House,8.51,True
+PROD-0053,SKU0053,Sticky Notes,Stationery,Paper,5.24,USD,Everyday Works,2.14,True
+PROD-0054,SKU0054,Canvas Tote,Accessories,Jewellery,17.57,USD,Everyday Studio,9.25,True
+PROD-0055,SKU0055,Craft Kit,Toys & Games,Soft Toys,21.33,USD,Everyday Supply,6.53,True
+PROD-0056,SKU0056,Bird Feeder,Garden,Growing,50.18,USD,Everyday Co,20.2,True
+PROD-0057,SKU0057,Desk Lamp,Electronics,Audio,87.88,USD,Everyday House,27.65,True
+PROD-0058,SKU0058,Bath Set,Beauty & Personal Care,Haircare,19.81,USD,Everyday Works,8.32,True
+PROD-0059,SKU0059,Yoga Mat,Sports & Outdoors,Hydration,19.22,USD,Everyday Studio,10.26,True
+PROD-0060,SKU0060,Rope Toy,Pet Supplies,Travel,7.63,USD,Everyday Supply,3.17,True
+PROD-0061,SKU0061,Glass Vase,Home & Kitchen,Storage,14.35,USD,Everyday Co,8.27,True
+PROD-0062,SKU0062,Gift Box,Gifts,Novelty,19.87,USD,Everyday House,10.21,True
+PROD-0063,SKU0063,Gel Pen Set,Stationery,Office,26.04,USD,Everyday Works,12.02,True
+PROD-0064,SKU0064,Travel Pouch,Accessories,Wearables,19.3,USD,Everyday Studio,7.76,True
+PROD-0065,SKU0065,Plush Bear,Toys & Games,Puzzles,5.93,USD,Everyday Supply,4.01,True
+PROD-0066,SKU0066,Seed Kit,Garden,Tools,6.28,USD,Everyday Co,3.27,True
+PROD-0067,SKU0067,Power Bank,Electronics,Smart Home,10.03,USD,Everyday House,4.63,True
+PROD-0068,SKU0068,Bath Set,Beauty & Personal Care,Tools,36.92,USD,Everyday Works,20.04,True
+PROD-0069,SKU0069,Yoga Mat,Sports & Outdoors,Fitness,13.3,USD,Everyday Studio,5.46,True
+PROD-0070,SKU0070,Treat Pouch,Pet Supplies,Toys,39.5,USD,Everyday Supply,20.11,True
+PROD-0071,SKU0071,Serving Tray,Home & Kitchen,Kitchenware,64.0,USD,Everyday Co,42.51,True
+PROD-0072,SKU0072,Seasonal Ornament,Gifts,Celebration,36.76,USD,Everyday House,12.31,True
+PROD-0073,SKU0073,Gel Pen Set,Stationery,Paper,8.85,USD,Everyday Works,3.33,True
+PROD-0074,SKU0074,Travel Pouch,Accessories,Jewellery,19.77,USD,Everyday Studio,8.96,True
+PROD-0075,SKU0075,Card Game,Toys & Games,Soft Toys,37.99,USD,Everyday Supply,21.11,True
+PROD-0076,SKU0076,Seed Kit,Garden,Growing,14.35,USD,Everyday Co,8.62,True
+PROD-0077,SKU0077,Smart Plug,Electronics,Audio,11.85,USD,Everyday House,5.74,True
+PROD-0078,SKU0078,Shampoo Bar,Beauty & Personal Care,Haircare,9.58,USD,Everyday Works,4.69,True
+PROD-0079,SKU0079,Head Torch,Sports & Outdoors,Hydration,10.04,USD,Everyday Studio,6.07,True
+PROD-0080,SKU0080,Grooming Brush,Pet Supplies,Travel,29.51,USD,Everyday Supply,8.81,True
+PROD-0081,SKU0081,Cotton Cushion,Home & Kitchen,Storage,22.71,USD,Everyday Co,7.38,True
+PROD-0082,SKU0082,Mini Keepsake,Gifts,Novelty,48.59,USD,Everyday House,19.86,True
+PROD-0083,SKU0083,File Folder,Stationery,Office,7.55,USD,Everyday Works,4.19,True
+PROD-0084,SKU0084,Canvas Tote,Accessories,Wearables,47.05,USD,Everyday Studio,26.24,True
+PROD-0085,SKU0085,Craft Kit,Toys & Games,Puzzles,14.6,USD,Everyday Supply,8.4,True
+PROD-0086,SKU0086,Herb Planter,Garden,Tools,74.22,USD,Everyday Co,33.45,False
+PROD-0087,SKU0087,Smart Plug,Electronics,Smart Home,14.1,USD,Everyday House,5.66,True
+PROD-0088,SKU0088,Shampoo Bar,Beauty & Personal Care,Tools,23.6,USD,Everyday Works,13.06,True
+PROD-0089,SKU0089,Water Bottle,Sports & Outdoors,Fitness,24.96,USD,Everyday Studio,15.65,True
+PROD-0090,SKU0090,Grooming Brush,Pet Supplies,Toys,27.53,USD,Everyday Supply,11.7,True
+PROD-0091,SKU0091,Glass Vase,Home & Kitchen,Kitchenware,12.51,USD,Everyday Co,4.75,True
+PROD-0092,SKU0092,Greeting Card,Gifts,Celebration,13.44,USD,Everyday House,4.44,True
+PROD-0093,SKU0093,Sticky Notes,Stationery,Paper,37.45,USD,Everyday Works,17.72,True
+PROD-0094,SKU0094,Card Holder,Accessories,Jewellery,2.18,USD,Everyday Studio,0.77,True
+PROD-0095,SKU0095,Jigsaw Puzzle,Toys & Games,Soft Toys,38.14,USD,Everyday Supply,12.39,True
+PROD-0096,SKU0096,Watering Can,Garden,Growing,21.18,USD,Everyday Co,12.38,True
+PROD-0097,SKU0097,Smart Plug,Electronics,Audio,24.67,USD,Everyday House,10.15,True
+PROD-0098,SKU0098,Bath Set,Beauty & Personal Care,Haircare,14.86,USD,Everyday Works,9.82,True
+PROD-0099,SKU0099,Dry Bag,Sports & Outdoors,Hydration,14.18,USD,Everyday Studio,6.57,True
+PROD-0100,SKU0100,Rope Toy,Pet Supplies,Travel,16.14,USD,Everyday Supply,8.52,True
+PROD-0101,SKU0101,Ceramic Mug,Home & Kitchen,Storage,37.25,USD,Everyday Co,21.71,True
+PROD-0102,SKU0102,Gift Wrap Set,Gifts,Novelty,9.17,USD,Everyday House,4.87,True
+PROD-0103,SKU0103,File Folder,Stationery,Office,31.86,USD,Everyday Works,16.18,True
+PROD-0104,SKU0104,Compact Umbrella,Accessories,Wearables,15.15,USD,Everyday Studio,9.65,True
+PROD-0105,SKU0105,Wooden Blocks,Toys & Games,Puzzles,13.15,USD,Everyday Supply,7.82,True
+PROD-0106,SKU0106,Watering Can,Garden,Tools,6.61,USD,Everyday Co,3.16,True
+PROD-0107,SKU0107,Wireless Charger,Electronics,Smart Home,48.96,USD,Everyday House,21.67,True
+PROD-0108,SKU0108,Hair Brush,Beauty & Personal Care,Tools,5.5,USD,Everyday Works,2.91,True
+PROD-0109,SKU0109,Head Torch,Sports & Outdoors,Fitness,30.29,USD,Everyday Studio,14.53,True
+PROD-0110,SKU0110,Treat Pouch,Pet Supplies,Toys,71.24,USD,Everyday Supply,32.55,False
+PROD-0111,SKU0111,Serving Tray,Home & Kitchen,Kitchenware,29.56,USD,Everyday Co,17.68,False
+PROD-0112,SKU0112,Gift Wrap Set,Gifts,Celebration,30.62,USD,Everyday House,10.94,True
+PROD-0113,SKU0113,Gel Pen Set,Stationery,Paper,37.1,USD,Everyday Works,22.66,True
+PROD-0114,SKU0114,Card Holder,Accessories,Jewellery,39.66,USD,Everyday Studio,11.88,True
+PROD-0115,SKU0115,Craft Kit,Toys & Games,Soft Toys,15.32,USD,Everyday Supply,5.75,True
+PROD-0116,SKU0116,Seed Kit,Garden,Growing,68.49,USD,Everyday Co,20.36,True
+PROD-0117,SKU0117,Power Bank,Electronics,Audio,65.9,USD,Everyday House,21.65,True
+PROD-0118,SKU0118,Travel Mirror,Beauty & Personal Care,Haircare,32.08,USD,Everyday Works,20.52,True
+PROD-0119,SKU0119,Yoga Mat,Sports & Outdoors,Hydration,19.02,USD,Everyday Studio,12.44,False
+PROD-0120,SKU0120,Leash,Pet Supplies,Travel,43.17,USD,Everyday Supply,14.35,True
+PROD-0121,SKU0121,Tea Towel,Home & Kitchen,Storage,8.5,USD,Everyday Co,4.83,True
+PROD-0122,SKU0122,Mini Keepsake,Gifts,Novelty,31.13,USD,Everyday House,14.53,False
+PROD-0123,SKU0123,File Folder,Stationery,Office,14.93,USD,Everyday Works,7.13,True
+PROD-0124,SKU0124,Canvas Tote,Accessories,Wearables,12.14,USD,Everyday Studio,5.78,True
+PROD-0125,SKU0125,Board Game,Toys & Games,Puzzles,26.56,USD,Everyday Supply,10.01,True
+PROD-0126,SKU0126,Bird Feeder,Garden,Tools,20.91,USD,Everyday Co,13.26,True
+PROD-0127,SKU0127,Bluetooth Speaker,Electronics,Smart Home,12.11,USD,Everyday House,7.13,True
+PROD-0128,SKU0128,Travel Mirror,Beauty & Personal Care,Tools,31.93,USD,Everyday Works,10.55,True
+PROD-0129,SKU0129,Yoga Mat,Sports & Outdoors,Fitness,29.65,USD,Everyday Studio,8.51,True
+PROD-0130,SKU0130,Rope Toy,Pet Supplies,Toys,39.51,USD,Everyday Supply,26.6,True
+PROD-0131,SKU0131,Ceramic Mug,Home & Kitchen,Kitchenware,12.84,USD,Everyday Co,4.7,True
+PROD-0132,SKU0132,Gift Wrap Set,Gifts,Celebration,7.89,USD,Everyday House,4.96,True
+PROD-0133,SKU0133,File Folder,Stationery,Paper,8.55,USD,Everyday Works,4.25,True
+PROD-0134,SKU0134,Travel Pouch,Accessories,Jewellery,18.64,USD,Everyday Studio,11.81,True
+PROD-0135,SKU0135,Card Game,Toys & Games,Soft Toys,26.04,USD,Everyday Supply,17.61,True
+PROD-0136,SKU0136,Bird Feeder,Garden,Growing,26.13,USD,Everyday Co,17.31,True
+PROD-0137,SKU0137,Desk Lamp,Electronics,Audio,9.71,USD,Everyday House,5.95,True
+PROD-0138,SKU0138,Shampoo Bar,Beauty & Personal Care,Haircare,5.3,USD,Everyday Works,3.12,True
+PROD-0139,SKU0139,Water Bottle,Sports & Outdoors,Hydration,45.36,USD,Everyday Studio,28.72,True
+PROD-0140,SKU0140,Travel Carrier,Pet Supplies,Travel,2.5,USD,Everyday Supply,1.48,True
+PROD-0141,SKU0141,Glass Vase,Home & Kitchen,Storage,30.1,USD,Everyday Co,14.13,True
+PROD-0142,SKU0142,Seasonal Ornament,Gifts,Novelty,6.1,USD,Everyday House,3.96,True
+PROD-0143,SKU0143,Gel Pen Set,Stationery,Office,14.04,USD,Everyday Works,7.27,True
+PROD-0144,SKU0144,Scarf,Accessories,Wearables,5.75,USD,Everyday Studio,3.35,True
+PROD-0145,SKU0145,Card Game,Toys & Games,Puzzles,23.86,USD,Everyday Supply,15.36,True
+PROD-0146,SKU0146,Seed Kit,Garden,Tools,29.88,USD,Everyday Co,12.77,True
+PROD-0147,SKU0147,Smart Plug,Electronics,Smart Home,20.39,USD,Everyday House,9.11,True
+PROD-0148,SKU0148,Travel Mirror,Beauty & Personal Care,Tools,39.32,USD,Everyday Works,22.27,True
+PROD-0149,SKU0149,Dry Bag,Sports & Outdoors,Fitness,2.47,USD,Everyday Studio,1.55,True
+PROD-0150,SKU0150,Travel Carrier,Pet Supplies,Toys,13.03,USD,Everyday Supply,6.65,False
+PROD-0151,SKU0151,Storage Basket,Home & Kitchen,Kitchenware,41.09,USD,Everyday Co,14.21,True
+PROD-0152,SKU0152,Gift Wrap Set,Gifts,Celebration,28.61,USD,Everyday House,19.06,True
+PROD-0153,SKU0153,Desk Planner,Stationery,Paper,14.99,USD,Everyday Works,4.72,False
+PROD-0154,SKU0154,Canvas Tote,Accessories,Jewellery,13.06,USD,Everyday Studio,5.5,True
+PROD-0155,SKU0155,Card Game,Toys & Games,Soft Toys,44.51,USD,Everyday Supply,21.61,True
+PROD-0156,SKU0156,Watering Can,Garden,Growing,21.11,USD,Everyday Co,11.8,True
+PROD-0157,SKU0157,Desk Lamp,Electronics,Audio,9.55,USD,Everyday House,6.38,True
+PROD-0158,SKU0158,Moisturiser,Beauty & Personal Care,Haircare,8.24,USD,Everyday Works,5.15,True
+PROD-0159,SKU0159,Yoga Mat,Sports & Outdoors,Hydration,22.88,USD,Everyday Studio,10.33,True
+PROD-0160,SKU0160,Pet Bowl,Pet Supplies,Travel,40.15,USD,Everyday Supply,21.06,True
+PROD-0161,SKU0161,Tea Towel,Home & Kitchen,Storage,16.29,USD,Everyday Co,10.79,True
+PROD-0162,SKU0162,Gift Box,Gifts,Novelty,13.98,USD,Everyday House,5.14,True
+PROD-0163,SKU0163,Gel Pen Set,Stationery,Office,25.65,USD,Everyday Works,14.92,True
+PROD-0164,SKU0164,Travel Pouch,Accessories,Wearables,16.07,USD,Everyday Studio,4.81,True
+PROD-0165,SKU0165,Plush Bear,Toys & Games,Puzzles,38.18,USD,Everyday Supply,15.89,True
+PROD-0166,SKU0166,Herb Planter,Garden,Tools,19.12,USD,Everyday Co,8.17,True
+PROD-0167,SKU0167,Power Bank,Electronics,Smart Home,10.3,USD,Everyday House,3.45,True
+PROD-0168,SKU0168,Shampoo Bar,Beauty & Personal Care,Tools,24.32,USD,Everyday Works,15.81,True
+PROD-0169,SKU0169,Dry Bag,Sports & Outdoors,Fitness,9.85,USD,Everyday Studio,6.25,True
+PROD-0170,SKU0170,Leash,Pet Supplies,Toys,28.19,USD,Everyday Supply,10.35,True
+PROD-0171,SKU0171,Storage Basket,Home & Kitchen,Kitchenware,32.26,USD,Everyday Co,17.05,True
+PROD-0172,SKU0172,Greeting Card,Gifts,Celebration,5.28,USD,Everyday House,2.31,True
+PROD-0173,SKU0173,Desk Planner,Stationery,Paper,26.78,USD,Everyday Works,17.75,True
+PROD-0174,SKU0174,Compact Umbrella,Accessories,Jewellery,43.84,USD,Everyday Studio,25.13,True
+PROD-0175,SKU0175,Plush Bear,Toys & Games,Soft Toys,140.4,USD,Everyday Supply,69.09,True
+PROD-0176,SKU0176,Bird Feeder,Garden,Growing,4.92,USD,Everyday Co,2.54,True
+PROD-0177,SKU0177,Desk Lamp,Electronics,Audio,47.63,USD,Everyday House,30.6,True
+PROD-0178,SKU0178,Hair Brush,Beauty & Personal Care,Haircare,16.98,USD,Everyday Works,8.58,True
+PROD-0179,SKU0179,Camping Mug,Sports & Outdoors,Hydration,15.73,USD,Everyday Studio,6.14,True
+PROD-0180,SKU0180,Grooming Brush,Pet Supplies,Travel,25.71,USD,Everyday Supply,14.04,True
+PROD-0181,SKU0181,Cotton Cushion,Home & Kitchen,Storage,33.24,USD,Everyday Co,19.99,True
+PROD-0182,SKU0182,Greeting Card,Gifts,Novelty,30.89,USD,Everyday House,20.23,True
+PROD-0183,SKU0183,Sticky Notes,Stationery,Office,5.97,USD,Everyday Works,3.44,True
+PROD-0184,SKU0184,Compact Umbrella,Accessories,Wearables,56.4,USD,Everyday Studio,18.97,True
+PROD-0185,SKU0185,Plush Bear,Toys & Games,Puzzles,115.96,USD,Everyday Supply,66.08,True
+PROD-0186,SKU0186,Garden Gloves,Garden,Tools,35.36,USD,Everyday Co,10.16,True
+PROD-0187,SKU0187,USB-C Cable,Electronics,Smart Home,12.27,USD,Everyday House,7.1,True
+PROD-0188,SKU0188,Moisturiser,Beauty & Personal Care,Tools,16.02,USD,Everyday Works,5.69,True
+PROD-0189,SKU0189,Head Torch,Sports & Outdoors,Fitness,32.02,USD,Everyday Studio,16.79,True
+PROD-0190,SKU0190,Leash,Pet Supplies,Toys,34.76,USD,Everyday Supply,14.82,True
+PROD-0191,SKU0191,Cotton Cushion,Home & Kitchen,Kitchenware,33.18,USD,Everyday Co,9.64,True
+PROD-0192,SKU0192,Seasonal Ornament,Gifts,Celebration,7.93,USD,Everyday House,3.96,True
+PROD-0193,SKU0193,Sketch Pad,Stationery,Paper,59.35,USD,Everyday Works,20.41,True
+PROD-0194,SKU0194,Canvas Tote,Accessories,Jewellery,6.04,USD,Everyday Studio,2.73,True
+PROD-0195,SKU0195,Board Game,Toys & Games,Soft Toys,56.78,USD,Everyday Supply,24.6,True
+PROD-0196,SKU0196,Seed Kit,Garden,Growing,18.81,USD,Everyday Co,9.3,False
+PROD-0197,SKU0197,Power Bank,Electronics,Audio,34.61,USD,Everyday House,11.45,True
+PROD-0198,SKU0198,Moisturiser,Beauty & Personal Care,Haircare,23.41,USD,Everyday Works,9.34,True
+PROD-0199,SKU0199,Dry Bag,Sports & Outdoors,Hydration,18.98,USD,Everyday Studio,12.42,True
+PROD-0200,SKU0200,Rope Toy,Pet Supplies,Travel,20.84,USD,Everyday Supply,13.4,False
+PROD-0201,SKU0201,Cotton Cushion,Home & Kitchen,Storage,22.16,USD,Everyday Co,9.97,True
+PROD-0202,SKU0202,Scented Candle,Gifts,Novelty,21.69,USD,Everyday House,9.06,False
+PROD-0203,SKU0203,Sketch Pad,Stationery,Office,22.01,USD,Everyday Works,8.93,True
+PROD-0204,SKU0204,Canvas Tote,Accessories,Wearables,13.41,USD,Everyday Studio,6.99,True
+PROD-0205,SKU0205,Board Game,Toys & Games,Puzzles,184.41,USD,Everyday Supply,95.36,True
+PROD-0206,SKU0206,Bird Feeder,Garden,Tools,13.41,USD,Everyday Co,6.12,True
+PROD-0207,SKU0207,Desk Lamp,Electronics,Smart Home,12.61,USD,Everyday House,4.4,True
+PROD-0208,SKU0208,Travel Mirror,Beauty & Personal Care,Tools,42.17,USD,Everyday Works,12.01,True
+PROD-0209,SKU0209,Head Torch,Sports & Outdoors,Fitness,38.0,USD,Everyday Studio,14.46,True
+PROD-0210,SKU0210,Leash,Pet Supplies,Toys,44.69,USD,Everyday Supply,27.3,True
+PROD-0211,SKU0211,Tea Towel,Home & Kitchen,Kitchenware,17.81,USD,Everyday Co,11.62,True
+PROD-0212,SKU0212,Gift Wrap Set,Gifts,Celebration,21.72,USD,Everyday House,9.18,True
+PROD-0213,SKU0213,Gel Pen Set,Stationery,Paper,60.37,USD,Everyday Works,23.8,True
+PROD-0214,SKU0214,Key Ring,Accessories,Jewellery,13.05,USD,Everyday Studio,8.33,True
+PROD-0215,SKU0215,Wooden Blocks,Toys & Games,Soft Toys,14.49,USD,Everyday Supply,7.61,True
+PROD-0216,SKU0216,Seed Kit,Garden,Growing,17.95,USD,Everyday Co,9.69,True
+PROD-0217,SKU0217,Desk Lamp,Electronics,Audio,23.38,USD,Everyday House,12.95,True
+PROD-0218,SKU0218,Shampoo Bar,Beauty & Personal Care,Haircare,75.52,USD,Everyday Works,31.27,True
+PROD-0219,SKU0219,Water Bottle,Sports & Outdoors,Hydration,38.38,USD,Everyday Studio,17.0,False
+PROD-0220,SKU0220,Travel Carrier,Pet Supplies,Travel,10.26,USD,Everyday Supply,6.3,True
+PROD-0221,SKU0221,Ceramic Mug,Home & Kitchen,Storage,62.69,USD,Everyday Co,17.92,True
+PROD-0222,SKU0222,Gift Box,Gifts,Novelty,28.43,USD,Everyday House,9.47,True
+PROD-0223,SKU0223,Desk Planner,Stationery,Office,16.75,USD,Everyday Works,6.39,True
+PROD-0224,SKU0224,Scarf,Accessories,Wearables,25.34,USD,Everyday Studio,15.36,True
+PROD-0225,SKU0225,Card Game,Toys & Games,Puzzles,31.59,USD,Everyday Supply,13.95,True
+PROD-0226,SKU0226,Bird Feeder,Garden,Tools,7.81,USD,Everyday Co,5.14,True
+PROD-0227,SKU0227,Wireless Charger,Electronics,Smart Home,15.08,USD,Everyday House,5.42,True
+PROD-0228,SKU0228,Shampoo Bar,Beauty & Personal Care,Tools,57.3,USD,Everyday Works,34.01,True
+PROD-0229,SKU0229,Water Bottle,Sports & Outdoors,Fitness,5.43,USD,Everyday Studio,3.21,True
+PROD-0230,SKU0230,Grooming Brush,Pet Supplies,Toys,134.84,USD,Everyday Supply,85.89,True
+PROD-0231,SKU0231,Cotton Cushion,Home & Kitchen,Kitchenware,6.24,USD,Everyday Co,1.92,True
+PROD-0232,SKU0232,Greeting Card,Gifts,Celebration,43.5,USD,Everyday House,20.37,True
+PROD-0233,SKU0233,Sticky Notes,Stationery,Paper,34.15,USD,Everyday Works,9.65,True
+PROD-0234,SKU0234,Card Holder,Accessories,Jewellery,17.76,USD,Everyday Studio,9.38,True
+PROD-0235,SKU0235,Wooden Blocks,Toys & Games,Soft Toys,11.81,USD,Everyday Supply,4.41,True
+PROD-0236,SKU0236,Garden Gloves,Garden,Growing,20.72,USD,Everyday Co,8.14,True
+PROD-0237,SKU0237,Power Bank,Electronics,Audio,77.11,USD,Everyday House,28.91,True
+PROD-0238,SKU0238,Travel Mirror,Beauty & Personal Care,Haircare,13.14,USD,Everyday Works,6.29,True
+PROD-0239,SKU0239,Head Torch,Sports & Outdoors,Hydration,136.7,USD,Everyday Studio,89.56,True
+PROD-0240,SKU0240,Leash,Pet Supplies,Travel,4.96,USD,Everyday Supply,1.99,True
+PROD-0241,SKU0241,Tea Towel,Home & Kitchen,Storage,25.06,USD,Everyday Co,9.29,True
+PROD-0242,SKU0242,Seasonal Ornament,Gifts,Novelty,17.88,USD,Everyday House,6.51,True
+PROD-0243,SKU0243,Desk Planner,Stationery,Office,24.0,USD,Everyday Works,13.96,True
+PROD-0244,SKU0244,Compact Umbrella,Accessories,Wearables,9.91,USD,Everyday Studio,3.48,True
+PROD-0245,SKU0245,Craft Kit,Toys & Games,Puzzles,6.75,USD,Everyday Supply,4.29,True
+PROD-0246,SKU0246,Seed Kit,Garden,Tools,5.45,USD,Everyday Co,3.45,True
+PROD-0247,SKU0247,Desk Lamp,Electronics,Smart Home,6.38,USD,Everyday House,3.38,True
+PROD-0248,SKU0248,Face Cleanser,Beauty & Personal Care,Tools,24.28,USD,Everyday Works,15.3,True
+PROD-0249,SKU0249,Dry Bag,Sports & Outdoors,Fitness,107.63,USD,Everyday Studio,71.03,True
+PROD-0250,SKU0250,Treat Pouch,Pet Supplies,Toys,12.11,USD,Everyday Supply,6.94,True
+PROD-0251,SKU0251,Glass Vase,Home & Kitchen,Kitchenware,24.11,USD,Everyday Co,14.58,False
+PROD-0252,SKU0252,Gift Box,Gifts,Celebration,25.4,USD,Everyday House,10.63,True
+PROD-0253,SKU0253,Gel Pen Set,Stationery,Paper,10.27,USD,Everyday Works,3.99,True
+PROD-0254,SKU0254,Compact Umbrella,Accessories,Jewellery,17.24,USD,Everyday Studio,7.46,True
+PROD-0255,SKU0255,Wooden Blocks,Toys & Games,Soft Toys,10.3,USD,Everyday Supply,4.74,True
+PROD-0256,SKU0256,Garden Gloves,Garden,Growing,7.91,USD,Everyday Co,4.92,True
+PROD-0257,SKU0257,Smart Plug,Electronics,Audio,33.16,USD,Everyday House,19.6,True
+PROD-0258,SKU0258,Travel Mirror,Beauty & Personal Care,Haircare,9.5,USD,Everyday Works,4.56,True
+PROD-0259,SKU0259,Resistance Band,Sports & Outdoors,Hydration,9.76,USD,Everyday Studio,3.97,True
+PROD-0260,SKU0260,Pet Bowl,Pet Supplies,Travel,27.69,USD,Everyday Supply,14.93,True
+PROD-0261,SKU0261,Storage Basket,Home & Kitchen,Storage,9.8,USD,Everyday Co,5.6,True
+PROD-0262,SKU0262,Scented Candle,Gifts,Novelty,28.4,USD,Everyday House,12.91,True
+PROD-0263,SKU0263,Sticky Notes,Stationery,Office,30.71,USD,Everyday Works,12.16,True
+PROD-0264,SKU0264,Scarf,Accessories,Wearables,7.68,USD,Everyday Studio,3.32,True
+PROD-0265,SKU0265,Wooden Blocks,Toys & Games,Puzzles,50.47,USD,Everyday Supply,17.9,True
+PROD-0266,SKU0266,Watering Can,Garden,Tools,20.57,USD,Everyday Co,9.84,True
+PROD-0267,SKU0267,Wireless Charger,Electronics,Smart Home,23.8,USD,Everyday House,11.71,True
+PROD-0268,SKU0268,Face Cleanser,Beauty & Personal Care,Tools,27.97,USD,Everyday Works,10.34,True
+PROD-0269,SKU0269,Dry Bag,Sports & Outdoors,Fitness,10.05,USD,Everyday Studio,6.1,True
+PROD-0270,SKU0270,Pet Bowl,Pet Supplies,Toys,44.48,USD,Everyday Supply,30.07,True
+PROD-0271,SKU0271,Storage Basket,Home & Kitchen,Kitchenware,18.85,USD,Everyday Co,7.27,True
+PROD-0272,SKU0272,Seasonal Ornament,Gifts,Celebration,12.08,USD,Everyday House,5.78,True
+PROD-0273,SKU0273,File Folder,Stationery,Paper,21.72,USD,Everyday Works,10.04,True
+PROD-0274,SKU0274,Card Holder,Accessories,Jewellery,3.99,USD,Everyday Studio,1.5,True
+PROD-0275,SKU0275,Craft Kit,Toys & Games,Soft Toys,19.34,USD,Everyday Supply,5.46,True
+PROD-0276,SKU0276,Plant Pot,Garden,Growing,21.22,USD,Everyday Co,6.66,True
+PROD-0277,SKU0277,Bluetooth Speaker,Electronics,Audio,54.57,USD,Everyday House,21.47,True
+PROD-0278,SKU0278,Hair Brush,Beauty & Personal Care,Haircare,2.41,USD,Everyday Works,0.7,True
+PROD-0279,SKU0279,Head Torch,Sports & Outdoors,Hydration,9.29,USD,Everyday Studio,3.36,True
+PROD-0280,SKU0280,Travel Carrier,Pet Supplies,Travel,33.08,USD,Everyday Supply,15.46,True
+PROD-0281,SKU0281,Glass Vase,Home & Kitchen,Storage,22.27,USD,Everyday Co,8.28,True
+PROD-0282,SKU0282,Gift Wrap Set,Gifts,Novelty,36.36,USD,Everyday House,15.62,True
+PROD-0283,SKU0283,Sticky Notes,Stationery,Office,5.06,USD,Everyday Works,2.45,True
+PROD-0284,SKU0284,Compact Umbrella,Accessories,Wearables,7.84,USD,Everyday Studio,3.81,True
+PROD-0285,SKU0285,Wooden Blocks,Toys & Games,Puzzles,24.41,USD,Everyday Supply,13.02,True
+PROD-0286,SKU0286,Garden Gloves,Garden,Tools,54.1,USD,Everyday Co,19.45,True
+PROD-0287,SKU0287,Power Bank,Electronics,Smart Home,16.39,USD,Everyday House,6.1,True
+PROD-0288,SKU0288,Moisturiser,Beauty & Personal Care,Tools,31.58,USD,Everyday Works,9.11,True
+PROD-0289,SKU0289,Head Torch,Sports & Outdoors,Fitness,8.68,USD,Everyday Studio,2.63,True
+PROD-0290,SKU0290,Leash,Pet Supplies,Toys,7.79,USD,Everyday Supply,4.86,True
+PROD-0291,SKU0291,Cotton Cushion,Home & Kitchen,Kitchenware,44.55,USD,Everyday Co,16.16,True
+PROD-0292,SKU0292,Scented Candle,Gifts,Celebration,65.42,USD,Everyday House,23.2,True
+PROD-0293,SKU0293,Sketch Pad,Stationery,Paper,16.38,USD,Everyday Works,7.71,True
+PROD-0294,SKU0294,Canvas Tote,Accessories,Jewellery,4.62,USD,Everyday Studio,1.93,True
+PROD-0295,SKU0295,Craft Kit,Toys & Games,Soft Toys,19.02,USD,Everyday Supply,6.94,True
+PROD-0296,SKU0296,Watering Can,Garden,Growing,8.84,USD,Everyday Co,4.98,True
+PROD-0297,SKU0297,Wireless Charger,Electronics,Audio,26.43,USD,Everyday House,9.87,True
+PROD-0298,SKU0298,Moisturiser,Beauty & Personal Care,Haircare,6.51,USD,Everyday Works,3.54,True
+PROD-0299,SKU0299,Water Bottle,Sports & Outdoors,Hydration,3.49,USD,Everyday Studio,1.47,True
+PROD-0300,SKU0300,Pet Bowl,Pet Supplies,Travel,15.61,USD,Everyday Supply,5.89,True
+PROD-0301,SKU0301,Storage Basket,Home & Kitchen,Storage,6.7,USD,Everyday Co,2.1,True
+PROD-0302,SKU0302,Scented Candle,Gifts,Novelty,10.72,USD,Everyday House,4.89,True
+PROD-0303,SKU0303,Desk Planner,Stationery,Office,11.22,USD,Everyday Works,6.38,True
+PROD-0304,SKU0304,Scarf,Accessories,Wearables,6.32,USD,Everyday Studio,3.8,True
+PROD-0305,SKU0305,Card Game,Toys & Games,Puzzles,6.15,USD,Everyday Supply,3.03,True
+PROD-0306,SKU0306,Herb Planter,Garden,Tools,24.28,USD,Everyday Co,15.07,True
+PROD-0307,SKU0307,Wireless Charger,Electronics,Smart Home,12.58,USD,Everyday House,4.43,True
+PROD-0308,SKU0308,Face Cleanser,Beauty & Personal Care,Tools,42.89,USD,Everyday Works,28.38,True
+PROD-0309,SKU0309,Camping Mug,Sports & Outdoors,Fitness,11.48,USD,Everyday Studio,3.79,True
+PROD-0310,SKU0310,Treat Pouch,Pet Supplies,Toys,38.81,USD,Everyday Supply,19.33,True
+PROD-0311,SKU0311,Glass Vase,Home & Kitchen,Kitchenware,10.11,USD,Everyday Co,3.68,True
+PROD-0312,SKU0312,Gift Wrap Set,Gifts,Celebration,10.17,USD,Everyday House,5.19,True
+PROD-0313,SKU0313,Gel Pen Set,Stationery,Paper,14.63,USD,Everyday Works,9.21,True
+PROD-0314,SKU0314,Card Holder,Accessories,Jewellery,62.33,USD,Everyday Studio,36.78,True
+PROD-0315,SKU0315,Card Game,Toys & Games,Soft Toys,39.01,USD,Everyday Supply,13.53,True
+PROD-0316,SKU0316,Garden Gloves,Garden,Growing,42.58,USD,Everyday Co,21.58,True
+PROD-0317,SKU0317,Desk Lamp,Electronics,Audio,37.41,USD,Everyday House,21.9,True
+PROD-0318,SKU0318,Travel Mirror,Beauty & Personal Care,Haircare,3.76,USD,Everyday Works,2.35,True
+PROD-0319,SKU0319,Head Torch,Sports & Outdoors,Hydration,13.32,USD,Everyday Studio,4.16,True
+PROD-0320,SKU0320,Leash,Pet Supplies,Travel,12.3,USD,Everyday Supply,5.23,True
+PROD-0321,SKU0321,Storage Basket,Home & Kitchen,Storage,9.76,USD,Everyday Co,3.75,True
+PROD-0322,SKU0322,Scented Candle,Gifts,Novelty,10.89,USD,Everyday House,6.98,True
+PROD-0323,SKU0323,Sketch Pad,Stationery,Office,27.72,USD,Everyday Works,16.35,True
+PROD-0324,SKU0324,Canvas Tote,Accessories,Wearables,47.77,USD,Everyday Studio,18.72,True
+PROD-0325,SKU0325,Plush Bear,Toys & Games,Puzzles,21.05,USD,Everyday Supply,8.22,True
+PROD-0326,SKU0326,Herb Planter,Garden,Tools,23.99,USD,Everyday Co,10.57,True
+PROD-0327,SKU0327,USB-C Cable,Electronics,Smart Home,9.59,USD,Everyday House,3.46,True
+PROD-0328,SKU0328,Moisturiser,Beauty & Personal Care,Tools,26.89,USD,Everyday Works,15.31,True
+PROD-0329,SKU0329,Resistance Band,Sports & Outdoors,Fitness,18.13,USD,Everyday Studio,10.26,True
+PROD-0330,SKU0330,Leash,Pet Supplies,Toys,3.03,USD,Everyday Supply,1.1,True
+PROD-0331,SKU0331,Ceramic Mug,Home & Kitchen,Kitchenware,112.48,USD,Everyday Co,47.24,True
+PROD-0332,SKU0332,Gift Wrap Set,Gifts,Celebration,15.37,USD,Everyday House,6.93,True
+PROD-0333,SKU0333,Sketch Pad,Stationery,Paper,7.66,USD,Everyday Works,4.9,True
+PROD-0334,SKU0334,Canvas Tote,Accessories,Jewellery,24.97,USD,Everyday Studio,16.05,True
+PROD-0335,SKU0335,Board Game,Toys & Games,Soft Toys,209.39,USD,Everyday Supply,120.36,True
+PROD-0336,SKU0336,Seed Kit,Garden,Growing,12.16,USD,Everyday Co,4.69,True
+PROD-0337,SKU0337,Bluetooth Speaker,Electronics,Audio,26.45,USD,Everyday House,10.67,True
+PROD-0338,SKU0338,Bath Set,Beauty & Personal Care,Haircare,63.09,USD,Everyday Works,30.46,True
+PROD-0339,SKU0339,Camping Mug,Sports & Outdoors,Hydration,21.97,USD,Everyday Studio,7.99,True
+PROD-0340,SKU0340,Travel Carrier,Pet Supplies,Travel,60.17,USD,Everyday Supply,24.31,True
+PROD-0341,SKU0341,Ceramic Mug,Home & Kitchen,Storage,30.76,USD,Everyday Co,15.05,True
+PROD-0342,SKU0342,Scented Candle,Gifts,Novelty,12.88,USD,Everyday House,8.31,True
+PROD-0343,SKU0343,Sticky Notes,Stationery,Office,8.7,USD,Everyday Works,2.5,True
+PROD-0344,SKU0344,Key Ring,Accessories,Wearables,13.11,USD,Everyday Studio,7.26,True
+PROD-0345,SKU0345,Jigsaw Puzzle,Toys & Games,Puzzles,18.58,USD,Everyday Supply,8.78,True
+PROD-0346,SKU0346,Herb Planter,Garden,Tools,34.92,USD,Everyday Co,15.57,True
+PROD-0347,SKU0347,Power Bank,Electronics,Smart Home,4.58,USD,Everyday House,2.68,True
+PROD-0348,SKU0348,Moisturiser,Beauty & Personal Care,Tools,20.39,USD,Everyday Works,12.18,True
+PROD-0349,SKU0349,Dry Bag,Sports & Outdoors,Fitness,21.14,USD,Everyday Studio,6.98,True
+PROD-0350,SKU0350,Treat Pouch,Pet Supplies,Toys,7.34,USD,Everyday Supply,3.6,True
+PROD-0351,SKU0351,Tea Towel,Home & Kitchen,Kitchenware,29.86,USD,Everyday Co,14.41,True
+PROD-0352,SKU0352,Greeting Card,Gifts,Celebration,71.47,USD,Everyday House,21.52,True
+PROD-0353,SKU0353,Desk Planner,Stationery,Paper,18.31,USD,Everyday Works,9.98,True
+PROD-0354,SKU0354,Scarf,Accessories,Jewellery,14.44,USD,Everyday Studio,8.02,True
+PROD-0355,SKU0355,Card Game,Toys & Games,Soft Toys,32.81,USD,Everyday Supply,11.98,True
+PROD-0356,SKU0356,Bird Feeder,Garden,Growing,13.63,USD,Everyday Co,7.5,True
+PROD-0357,SKU0357,USB-C Cable,Electronics,Audio,37.85,USD,Everyday House,15.49,True
+PROD-0358,SKU0358,Hair Brush,Beauty & Personal Care,Haircare,12.96,USD,Everyday Works,4.21,True
+PROD-0359,SKU0359,Head Torch,Sports & Outdoors,Hydration,20.74,USD,Everyday Studio,14.09,True
+PROD-0360,SKU0360,Grooming Brush,Pet Supplies,Travel,5.22,USD,Everyday Supply,3.42,True
+PROD-0361,SKU0361,Storage Basket,Home & Kitchen,Storage,15.9,USD,Everyday Co,8.69,True
+PROD-0362,SKU0362,Gift Wrap Set,Gifts,Novelty,6.88,USD,Everyday House,4.13,True
+PROD-0363,SKU0363,Gel Pen Set,Stationery,Office,26.92,USD,Everyday Works,10.52,True
+PROD-0364,SKU0364,Travel Pouch,Accessories,Wearables,59.53,USD,Everyday Studio,35.74,True
+PROD-0365,SKU0365,Plush Bear,Toys & Games,Puzzles,57.89,USD,Everyday Supply,27.32,True
+PROD-0366,SKU0366,Seed Kit,Garden,Tools,5.64,USD,Everyday Co,3.3,True
+PROD-0367,SKU0367,Bluetooth Speaker,Electronics,Smart Home,5.8,USD,Everyday House,2.92,True
+PROD-0368,SKU0368,Hair Brush,Beauty & Personal Care,Tools,8.25,USD,Everyday Works,3.32,True
+PROD-0369,SKU0369,Yoga Mat,Sports & Outdoors,Fitness,12.51,USD,Everyday Studio,4.48,False
+PROD-0370,SKU0370,Rope Toy,Pet Supplies,Toys,13.77,USD,Everyday Supply,6.44,True
+PROD-0371,SKU0371,Glass Vase,Home & Kitchen,Kitchenware,8.08,USD,Everyday Co,5.45,True
+PROD-0372,SKU0372,Gift Wrap Set,Gifts,Celebration,6.59,USD,Everyday House,2.39,True
+PROD-0373,SKU0373,File Folder,Stationery,Paper,21.49,USD,Everyday Works,13.92,True
+PROD-0374,SKU0374,Card Holder,Accessories,Jewellery,96.73,USD,Everyday Studio,64.65,True
+PROD-0375,SKU0375,Wooden Blocks,Toys & Games,Soft Toys,13.55,USD,Everyday Supply,5.52,True
+PROD-0376,SKU0376,Garden Gloves,Garden,Growing,15.22,USD,Everyday Co,10.19,True
+PROD-0377,SKU0377,Power Bank,Electronics,Audio,9.47,USD,Everyday House,5.55,True
+PROD-0378,SKU0378,Face Cleanser,Beauty & Personal Care,Haircare,44.68,USD,Everyday Works,18.1,True
+PROD-0379,SKU0379,Dry Bag,Sports & Outdoors,Hydration,18.08,USD,Everyday Studio,6.47,True
+PROD-0380,SKU0380,Pet Bowl,Pet Supplies,Travel,20.75,USD,Everyday Supply,6.8,True
+PROD-0381,SKU0381,Tea Towel,Home & Kitchen,Storage,12.11,USD,Everyday Co,7.18,True
+PROD-0382,SKU0382,Seasonal Ornament,Gifts,Novelty,20.72,USD,Everyday House,13.8,True
+PROD-0383,SKU0383,Desk Planner,Stationery,Office,10.35,USD,Everyday Works,4.73,False
+PROD-0384,SKU0384,Card Holder,Accessories,Wearables,34.41,USD,Everyday Studio,12.14,True
+PROD-0385,SKU0385,Plush Bear,Toys & Games,Puzzles,25.66,USD,Everyday Supply,14.89,True
+PROD-0386,SKU0386,Seed Kit,Garden,Tools,13.28,USD,Everyday Co,8.0,True
+PROD-0387,SKU0387,Wireless Charger,Electronics,Smart Home,9.36,USD,Everyday House,4.85,True
+PROD-0388,SKU0388,Shampoo Bar,Beauty & Personal Care,Tools,12.28,USD,Everyday Works,6.02,True
+PROD-0389,SKU0389,Dry Bag,Sports & Outdoors,Fitness,27.4,USD,Everyday Studio,11.07,True
+PROD-0390,SKU0390,Leash,Pet Supplies,Toys,11.97,USD,Everyday Supply,7.9,True
+PROD-0391,SKU0391,Cotton Cushion,Home & Kitchen,Kitchenware,13.78,USD,Everyday Co,9.14,True
+PROD-0392,SKU0392,Mini Keepsake,Gifts,Celebration,5.23,USD,Everyday House,2.53,True
+PROD-0393,SKU0393,Gel Pen Set,Stationery,Paper,23.02,USD,Everyday Works,6.45,True
+PROD-0394,SKU0394,Card Holder,Accessories,Jewellery,5.3,USD,Everyday Studio,3.4,True
+PROD-0395,SKU0395,Plush Bear,Toys & Games,Soft Toys,15.22,USD,Everyday Supply,6.6,True
+PROD-0396,SKU0396,Watering Can,Garden,Growing,25.19,USD,Everyday Co,15.39,True
+PROD-0397,SKU0397,Desk Lamp,Electronics,Audio,4.73,USD,Everyday House,2.08,True
+PROD-0398,SKU0398,Shampoo Bar,Beauty & Personal Care,Haircare,34.97,USD,Everyday Works,18.91,True
+PROD-0399,SKU0399,Head Torch,Sports & Outdoors,Hydration,32.13,USD,Everyday Studio,21.46,True
+PROD-0400,SKU0400,Travel Carrier,Pet Supplies,Travel,20.67,USD,Everyday Supply,10.71,True
+PROD-0401,SKU0401,Serving Tray,Home & Kitchen,Storage,3.94,USD,Everyday Co,2.18,False
+PROD-0402,SKU0402,Seasonal Ornament,Gifts,Novelty,14.37,USD,Everyday House,9.72,True
+PROD-0403,SKU0403,Sticky Notes,Stationery,Office,9.07,USD,Everyday Works,3.46,True
+PROD-0404,SKU0404,Compact Umbrella,Accessories,Wearables,9.86,USD,Everyday Studio,6.04,True
+PROD-0405,SKU0405,Card Game,Toys & Games,Puzzles,18.89,USD,Everyday Supply,6.7,True
+PROD-0406,SKU0406,Bird Feeder,Garden,Tools,6.54,USD,Everyday Co,3.6,True
+PROD-0407,SKU0407,Smart Plug,Electronics,Smart Home,20.18,USD,Everyday House,9.41,True
+PROD-0408,SKU0408,Bath Set,Beauty & Personal Care,Tools,19.76,USD,Everyday Works,12.27,True
+PROD-0409,SKU0409,Dry Bag,Sports & Outdoors,Fitness,6.34,USD,Everyday Studio,3.67,True
+PROD-0410,SKU0410,Treat Pouch,Pet Supplies,Toys,2.86,USD,Everyday Supply,1.49,True
+PROD-0411,SKU0411,Serving Tray,Home & Kitchen,Kitchenware,1.68,USD,Everyday Co,0.61,True
+PROD-0412,SKU0412,Greeting Card,Gifts,Celebration,39.39,USD,Everyday House,26.54,True
+PROD-0413,SKU0413,Sticky Notes,Stationery,Paper,10.31,USD,Everyday Works,6.03,True
+PROD-0414,SKU0414,Card Holder,Accessories,Jewellery,9.13,USD,Everyday Studio,4.39,True
+PROD-0415,SKU0415,Craft Kit,Toys & Games,Soft Toys,46.47,USD,Everyday Supply,13.55,True
+PROD-0416,SKU0416,Plant Pot,Garden,Growing,5.42,USD,Everyday Co,1.68,True
+PROD-0417,SKU0417,Bluetooth Speaker,Electronics,Audio,21.79,USD,Everyday House,9.37,True
+PROD-0418,SKU0418,Travel Mirror,Beauty & Personal Care,Haircare,7.47,USD,Everyday Works,2.33,False
+PROD-0419,SKU0419,Head Torch,Sports & Outdoors,Hydration,19.75,USD,Everyday Studio,11.01,True
+PROD-0420,SKU0420,Pet Bowl,Pet Supplies,Travel,16.02,USD,Everyday Supply,10.68,False
+PROD-0421,SKU0421,Tea Towel,Home & Kitchen,Storage,31.46,USD,Everyday Co,9.03,True
+PROD-0422,SKU0422,Seasonal Ornament,Gifts,Novelty,26.51,USD,Everyday House,13.58,True
+PROD-0423,SKU0423,File Folder,Stationery,Office,24.08,USD,Everyday Works,9.44,True
+PROD-0424,SKU0424,Compact Umbrella,Accessories,Wearables,18.54,USD,Everyday Studio,5.44,True
+PROD-0425,SKU0425,Wooden Blocks,Toys & Games,Puzzles,8.93,USD,Everyday Supply,5.45,True
+PROD-0426,SKU0426,Garden Gloves,Garden,Tools,15.54,USD,Everyday Co,4.93,True
+PROD-0427,SKU0427,USB-C Cable,Electronics,Smart Home,3.62,USD,Everyday House,2.36,True
+PROD-0428,SKU0428,Moisturiser,Beauty & Personal Care,Tools,5.76,USD,Everyday Works,3.71,True
+PROD-0429,SKU0429,Head Torch,Sports & Outdoors,Fitness,18.52,USD,Everyday Studio,9.72,True
+PROD-0430,SKU0430,Rope Toy,Pet Supplies,Toys,9.97,USD,Everyday Supply,3.71,True
+PROD-0431,SKU0431,Ceramic Mug,Home & Kitchen,Kitchenware,8.97,USD,Everyday Co,2.58,True
+PROD-0432,SKU0432,Greeting Card,Gifts,Celebration,6.88,USD,Everyday House,4.53,False
+PROD-0433,SKU0433,Desk Planner,Stationery,Paper,27.02,USD,Everyday Works,15.59,True
+PROD-0434,SKU0434,Canvas Tote,Accessories,Jewellery,19.13,USD,Everyday Studio,12.09,True
+PROD-0435,SKU0435,Card Game,Toys & Games,Soft Toys,20.16,USD,Everyday Supply,12.83,True
+PROD-0436,SKU0436,Herb Planter,Garden,Growing,28.87,USD,Everyday Co,10.59,True
+PROD-0437,SKU0437,Wireless Charger,Electronics,Audio,13.7,USD,Everyday House,6.15,True
+PROD-0438,SKU0438,Shampoo Bar,Beauty & Personal Care,Haircare,19.26,USD,Everyday Works,12.44,True
+PROD-0439,SKU0439,Head Torch,Sports & Outdoors,Hydration,81.55,USD,Everyday Studio,36.55,True
+PROD-0440,SKU0440,Travel Carrier,Pet Supplies,Travel,60.23,USD,Everyday Supply,38.8,True
+PROD-0441,SKU0441,Storage Basket,Home & Kitchen,Storage,6.64,USD,Everyday Co,3.04,True
+PROD-0442,SKU0442,Gift Box,Gifts,Novelty,23.31,USD,Everyday House,14.55,True
+PROD-0443,SKU0443,Sticky Notes,Stationery,Office,12.55,USD,Everyday Works,4.62,True
+PROD-0444,SKU0444,Travel Pouch,Accessories,Wearables,21.55,USD,Everyday Studio,6.26,True
+PROD-0445,SKU0445,Wooden Blocks,Toys & Games,Puzzles,22.3,USD,Everyday Supply,7.06,True
+PROD-0446,SKU0446,Plant Pot,Garden,Tools,54.97,USD,Everyday Co,32.78,True
+PROD-0447,SKU0447,Bluetooth Speaker,Electronics,Smart Home,34.0,USD,Everyday House,17.11,True
+PROD-0448,SKU0448,Travel Mirror,Beauty & Personal Care,Tools,8.55,USD,Everyday Works,5.61,True
+PROD-0449,SKU0449,Camping Mug,Sports & Outdoors,Fitness,122.78,USD,Everyday Studio,63.79,True
+PROD-0450,SKU0450,Travel Carrier,Pet Supplies,Toys,33.35,USD,Everyday Supply,14.57,False
+PROD-0451,SKU0451,Tea Towel,Home & Kitchen,Kitchenware,24.23,USD,Everyday Co,9.94,True
+PROD-0452,SKU0452,Greeting Card,Gifts,Celebration,10.91,USD,Everyday House,5.68,True
+PROD-0453,SKU0453,Sticky Notes,Stationery,Paper,12.27,USD,Everyday Works,6.44,False
+PROD-0454,SKU0454,Compact Umbrella,Accessories,Jewellery,14.33,USD,Everyday Studio,7.95,True
+PROD-0455,SKU0455,Wooden Blocks,Toys & Games,Soft Toys,27.7,USD,Everyday Supply,17.84,True
+PROD-0456,SKU0456,Bird Feeder,Garden,Growing,24.32,USD,Everyday Co,13.96,True
+PROD-0457,SKU0457,Bluetooth Speaker,Electronics,Audio,25.08,USD,Everyday House,16.35,True
+PROD-0458,SKU0458,Travel Mirror,Beauty & Personal Care,Haircare,32.9,USD,Everyday Works,20.27,True
+PROD-0459,SKU0459,Camping Mug,Sports & Outdoors,Hydration,13.49,USD,Everyday Studio,6.29,True
+PROD-0460,SKU0460,Rope Toy,Pet Supplies,Travel,48.74,USD,Everyday Supply,27.14,True
+PROD-0461,SKU0461,Storage Basket,Home & Kitchen,Storage,48.62,USD,Everyday Co,31.31,True
+PROD-0462,SKU0462,Gift Box,Gifts,Novelty,18.35,USD,Everyday House,6.35,True
+PROD-0463,SKU0463,Gel Pen Set,Stationery,Office,12.12,USD,Everyday Works,7.97,True
+PROD-0464,SKU0464,Scarf,Accessories,Wearables,46.61,USD,Everyday Studio,26.46,True
+PROD-0465,SKU0465,Card Game,Toys & Games,Puzzles,19.92,USD,Everyday Supply,12.5,False
+PROD-0466,SKU0466,Seed Kit,Garden,Tools,8.58,USD,Everyday Co,3.57,True
+PROD-0467,SKU0467,Power Bank,Electronics,Smart Home,15.0,USD,Everyday House,8.39,True
+PROD-0468,SKU0468,Travel Mirror,Beauty & Personal Care,Tools,62.13,USD,Everyday Works,29.61,True
+PROD-0469,SKU0469,Dry Bag,Sports & Outdoors,Fitness,43.78,USD,Everyday Studio,28.62,True
+PROD-0470,SKU0470,Grooming Brush,Pet Supplies,Toys,12.22,USD,Everyday Supply,5.25,True
+PROD-0471,SKU0471,Cotton Cushion,Home & Kitchen,Kitchenware,6.92,USD,Everyday Co,3.38,True
+PROD-0472,SKU0472,Gift Box,Gifts,Celebration,72.76,USD,Everyday House,38.12,True
+PROD-0473,SKU0473,Sticky Notes,Stationery,Paper,48.06,USD,Everyday Works,26.25,True
+PROD-0474,SKU0474,Travel Pouch,Accessories,Jewellery,11.51,USD,Everyday Studio,3.93,True
+PROD-0475,SKU0475,Jigsaw Puzzle,Toys & Games,Soft Toys,38.02,USD,Everyday Supply,16.86,True
+PROD-0476,SKU0476,Plant Pot,Garden,Growing,31.19,USD,Everyday Co,8.82,True
+PROD-0477,SKU0477,Power Bank,Electronics,Audio,6.65,USD,Everyday House,2.29,True
+PROD-0478,SKU0478,Travel Mirror,Beauty & Personal Care,Haircare,6.44,USD,Everyday Works,3.42,True
+PROD-0479,SKU0479,Water Bottle,Sports & Outdoors,Hydration,77.03,USD,Everyday Studio,22.39,True
+PROD-0480,SKU0480,Rope Toy,Pet Supplies,Travel,51.18,USD,Everyday Supply,17.71,True
+PROD-0481,SKU0481,Tea Towel,Home & Kitchen,Storage,22.16,USD,Everyday Co,7.79,True
+PROD-0482,SKU0482,Scented Candle,Gifts,Novelty,22.15,USD,Everyday House,9.76,True
+PROD-0483,SKU0483,File Folder,Stationery,Office,17.9,USD,Everyday Works,6.75,True
+PROD-0484,SKU0484,Compact Umbrella,Accessories,Wearables,2.93,USD,Everyday Studio,0.86,True
+PROD-0485,SKU0485,Wooden Blocks,Toys & Games,Puzzles,29.08,USD,Everyday Supply,8.2,True
+PROD-0486,SKU0486,Bird Feeder,Garden,Tools,40.95,USD,Everyday Co,15.13,True
+PROD-0487,SKU0487,Power Bank,Electronics,Smart Home,12.88,USD,Everyday House,7.83,True
+PROD-0488,SKU0488,Shampoo Bar,Beauty & Personal Care,Tools,28.16,USD,Everyday Works,7.96,True
+PROD-0489,SKU0489,Dry Bag,Sports & Outdoors,Fitness,5.76,USD,Everyday Studio,3.62,True
+PROD-0490,SKU0490,Treat Pouch,Pet Supplies,Toys,26.35,USD,Everyday Supply,12.51,True
+PROD-0491,SKU0491,Glass Vase,Home & Kitchen,Kitchenware,23.31,USD,Everyday Co,7.44,False
+PROD-0492,SKU0492,Gift Wrap Set,Gifts,Celebration,13.99,USD,Everyday House,9.31,True
+PROD-0493,SKU0493,Notebook,Stationery,Paper,22.95,USD,Everyday Works,15.08,True
+PROD-0494,SKU0494,Key Ring,Accessories,Jewellery,9.1,USD,Everyday Studio,5.5,True
+PROD-0495,SKU0495,Wooden Blocks,Toys & Games,Soft Toys,8.99,USD,Everyday Supply,3.2,True
+PROD-0496,SKU0496,Herb Planter,Garden,Growing,15.64,USD,Everyday Co,6.91,True
+PROD-0497,SKU0497,Smart Plug,Electronics,Audio,10.63,USD,Everyday House,3.8,True
+PROD-0498,SKU0498,Travel Mirror,Beauty & Personal Care,Haircare,29.69,USD,Everyday Works,9.93,True
+PROD-0499,SKU0499,Camping Mug,Sports & Outdoors,Hydration,19.12,USD,Everyday Studio,11.15,True
+PROD-0500,SKU0500,Leash,Pet Supplies,Travel,19.59,USD,Everyday Supply,12.07,True
